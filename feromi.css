@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.era{
+    background-color: rgb(226, 217, 217);
+    height: 100%;
+    width: 100%;
+}
+button{
+    padding: 12px 12px 12px 12px;
+    background-color: grey;
+    margin-top: 8px;
+    border-radius: 8px;
+    color: white;
+}
+label{
+    font-size: 35px;
+}
+input{
+    padding: 10px 10px 10px 10px;
+    background-color: antiquewhite;
+    margin-top: 8px;
+    border-radius: 8px;
+    color: pink;
+}
